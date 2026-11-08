@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "mcp__.*[Rr]esend.*__.*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "no-such-command-xyz",
+            "onFailure": "block"
+          }
+        ]
+      }
+    ]
+  }
+}

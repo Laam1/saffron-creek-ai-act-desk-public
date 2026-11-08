@@ -1,0 +1,13 @@
+{
+  "name": "ai-act-kit",
+  "version": "0.1.0",
+  "description": "Assess a bank's AI systems against the EU AI Act and DIFC Regulation 10. Learning kit, not legal advice.",
+  "userConfig": {
+    "my_email": {
+      "type": "string",
+      "title": "Your own email address",
+      "description": "The only real address the send guard will allow. Leave empty to allow only @resend.dev test addresses.",
+      "required": false
+    }
+  }
+}

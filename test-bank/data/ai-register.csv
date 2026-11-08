@@ -1,0 +1,6 @@
+system_id,name,purpose,used_on,where_output_used,decision_impact,personal_data,built_or_bought,owner
+TB-01,Loan Approver,Scores personal loan applications,retail customers,UAE;France,approves or declines loans,yes,built in-house,Head of Lending
+TB-02,Branch Queue Predictor,Predicts branch waiting times,branch staff,unknown,information only,no,bought,Head of Branches
+TB-03,Local Fraud Alert,Flags unusual card payments for staff review,retail customers,UAE,staff review only,yes,bought,Head of Fraud
+TB-04,Spare System For Missing File Test,Summarises internal memos,staff,UAE,information only,no,bought,Head of Operations
+TB-05,Loan Pre-Check,Scores personal loan applications before a full check,retail customers,France,approves or declines loans,yes,built in-house,Head of Lending
