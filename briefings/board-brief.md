@@ -26,7 +26,7 @@
 ## Top three actions
 - **Confirm where AI-05's emotion scores are used.** Owner: Head of Customer Service. Date: 2 February 2025, passed. If used in the EU, the workplace emotion ban may apply (Art. 5(1)(f), S-01; Art. 1 point 40(a), S-02).
 - **Confirm whether applicants interact directly with AI-01.** Owner: Head of Retail Credit. Date: 2 August 2026, passed. If so, the AI notice duty may apply (Arts. 50(1), 113, S-01).
-- **Prepare AI-01 for high-risk duties (Arts. 9 to 16, 26, 27, S-01).** Owner: Head of Retail Credit. Date: 2 December 2027.
+- **Prepare AI-01 for high-risk duties (Arts. 9 to 16, 26, 27, S-01; Arts. 10, 11 and 27 as amended by Art. 1 points 9, 10 and 13, S-02).** Owner: Head of Retail Credit. Date: 2 December 2027.
 
 ## What we're unsure about
 - Where AI-02 to AI-08 outputs are used: unknown.
