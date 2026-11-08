@@ -25,7 +25,7 @@ paths:
 
 4. Decide in this order. Do not skip a step.
    1. Check scope with Article 2 (is the output used in the EU?).
-      - If where the output is used is unknown, the tier is needs lawyer. Stop here and list the gap under "What's missing".
+      - If where the output is used is unknown, the tier is needs lawyer. Stop here and list the gap under "What's missing". You may also add one "If the output is used in the EU" flag under "What's missing". It names a likely Article 5 ban, Annex III match or Annex III exception, and quotes it. The flag does not decide the tier, and steps 2 to 5 still count as not run.
       - If the output is confirmed as not used in the EU, the tier is out of scope. Stop here and cite Article 2. Scope means whether the law applies to the system at all.
    2. Check the Article 5 bans (the list of banned AI practices).
    3. Check Annex III (the list of high-risk AI uses).
