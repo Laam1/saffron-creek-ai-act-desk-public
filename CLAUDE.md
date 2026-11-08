@@ -17,6 +17,7 @@ Assessing the AI systems of Saffron Creek Bank, a made-up bank licensed in Dubai
 3. Every legal claim cites an article and a source_id from regulations/sources.csv.
 4. If you don't know something, write "unknown". Never guess a date, an article or a number.
 5. Never send email to real people.
+   - Sending through Resend is allowed only to Resend's test addresses (ending in @resend.dev) and to my own email address. A guard enforces this from step 10.
 6. Ask me before deleting or overwriting any file.
 
 ## Bank
