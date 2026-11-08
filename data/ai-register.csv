@@ -1,0 +1,9 @@
+system_id,name,purpose,used_on,where_output_used,decision_impact,personal_data,built_or_bought,owner
+AI-01,Credit Scorer,Scores personal loan applications,retail customers,UAE;Germany,approves or declines loans,yes,built in-house,Head of Retail Credit
+AI-02,Website Chat Assistant,Answers account questions on the website,retail customers,unknown,information only,yes,bought,Head of Digital
+AI-03,AML Transaction Monitor,Flags suspicious payments for analysts to review,retail customers,unknown,flags payments for human review,yes,bought,Head of Financial Crime Compliance
+AI-04,CV Screener,Ranks job applicants for interview,job applicants,unknown,decides who is invited to interview,yes,bought,Head of Human Resources
+AI-05,Call Emotion Scorer,Scores staff members' emotions during calls,call-centre staff,unknown,feeds staff performance reviews,yes,bought,Head of Customer Service
+AI-06,Offer Personaliser,Picks personalised offers for customers,retail customers,unknown,chooses which offers customers see,yes,built in-house,Head of Marketing
+AI-07,Card Fraud Detector,Blocks suspicious card payments,retail customers,unknown,blocks card payments,yes,bought,Head of Fraud Prevention
+AI-08,Developer Coding Assistant,Suggests code for the bank's developers,bank developers,unknown,information only,no,bought,Head of Technology

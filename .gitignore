@@ -1,0 +1,15 @@
+.env
+.env.*
+.claude/settings.local.json
+.DS_Store
+Thumbs.db
+node_modules/
+
+# Kept from the earlier .gitignore
+!.env.example
+*.pem
+*.key
+.venv/
+__pycache__/
+dist/
+build/
