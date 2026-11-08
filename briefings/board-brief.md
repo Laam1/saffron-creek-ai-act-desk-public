@@ -3,8 +3,8 @@
 
 ## Summary
 - We assessed 8 AI systems against the EU AI Act and Dubai International Financial Centre (DIFC) data rules.
-- All 8 need action: AI-01 must prepare for high-risk rules, and the other 7 need a missing fact confirmed.
-- The nearest confirmed deadline is 2 December 2027, for AI-01, and the other 7 are unknown.
+- All 8 need action: AI-01 must prepare for high-risk rules (Annex III point 5(b), Art. 6(2), S-01), and the other 7 need a missing fact confirmed (Art. 2(1)(c), S-01).
+- The nearest confirmed deadline is 2 December 2027, for AI-01 (Art. 1 point 40(b), S-02), and the other 7 are unknown (Art. 2(1)(c), S-01).
 
 ## Our AI systems
 | System | Risk tier | Deadline | Needs human sign-off |
