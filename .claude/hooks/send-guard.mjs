@@ -18,6 +18,7 @@ const ALWAYS_BLOCKED = [
   [/^add-contact-to-segment$/, "it adds people to a mailing list"],
   [/^send-event$/, "events start automations that can email people"],
   [/^(reply-to-inbox-thread-email|send-inbox-draft)$/, "its recipients are not visible, so they cannot be checked"],
+  [/^update-inbox-agent$/, "it can let an inbox's AI agent forward threads, and those recipients cannot be checked"],
   // Safety net: a send tool this guard has not been told about.
   [/^(send|reply|forward)-/, "this guard does not know how to check its recipients"],
 ];
