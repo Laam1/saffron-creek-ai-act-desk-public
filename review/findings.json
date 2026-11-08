@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "file": "assessments/AI-01.md",
+      "line": 44,
+      "severity": "minor",
+      "message": "Quotes Art. 27(1) from S-01 only, but regulations/sources.csv says S-02 amends Art. 27 (Art. 1 points 9 to 13). Line 40 notes the S-02 amendments to Arts. 10 and 11, but this line does not. Line 41 has the same gap: its quality management duty relies on Art. 17, and S-02 amends Art. 17(2). Whether these amendments change the duties is unknown, because the legal texts are not in the repo."
+    },
+    {
+      "file": "briefings/board-brief.md",
+      "line": 29,
+      "severity": "minor",
+      "message": "Cites 'Arts. 9 to 16, 26, 27, S-01' with no mention of S-02, although regulations/sources.csv lists Arts. 10, 11(1) and 27 as amended by S-02 (Art. 1 points 9 to 13). The citation should also point to S-02."
+    },
+    {
+      "file": "assessments/AI-05.md",
+      "line": 30,
+      "severity": "minor",
+      "message": "Rule 4.1 allows one 'If the output is used in the EU' flag that names a likely Article 5 ban, Annex III match or Annex III exception, and quotes it. This flag names two: the Art. 5(1)(f) ban and the Annex III point 4(b) match. Keep one, or confirm the rule is meant to allow both."
+    }
+  ]
+}
